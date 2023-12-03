@@ -21,6 +21,6 @@ After activating the plugin, follow these steps:
 
 We welcome contributions! Feel free to submit bug reports or feature requests through GitHub.
 
-## Support
 
-For support or inquiries, please contact us at techgyan914@gmail.com.
+
+If you encounter any issues or have questions, please open an issue on the GitHub repository.
